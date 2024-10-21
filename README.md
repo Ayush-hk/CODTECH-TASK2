@@ -71,4 +71,5 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 The Advanced To-Do List application is a functional and user-friendly tool that allows users to manage their tasks efficiently. It showcases essential web development skills such as DOM manipulation, event handling, and local storage management. The application can be further enhanced by implementing features like user authentication, task prioritization, and due date notifications. Overall, this project serves as a great example of a practical, interactive web application.
 
-![Uploading Screenshot (6).png…]()
+![Screenshot (6)](https://github.com/user-attachments/assets/6ad9f0d7-f494-472b-b19b-d25f3eb84a7e)
+
